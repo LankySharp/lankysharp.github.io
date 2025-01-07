@@ -53,4 +53,4 @@ Email: KennyFlagg@outlook.com
 
 **If it can dull, I‘ll make it sharp!**
 
-![logo](Pasted%20image%2020250106174035.png)
+![logo](assets/images/logo.png)
