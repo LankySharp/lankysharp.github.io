@@ -50,7 +50,7 @@ Please inquire regarding specialty tools, powered blade equipment, etc.
 
 ## Contact:
 
-Call or Text anytime! Kenny | [218-640-1145](tel:218-640-1145)
+Call or Text anytime!  | Kenny [218-640-1145](tel:218-640-1145)
 
 Email: KennyFlagg@outlook.com
 
