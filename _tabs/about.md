@@ -40,7 +40,7 @@ All prices include even and matching bevel(s) set as the tool is intended to be 
 
 Please inquire regarding specialty tools, powered blade equipment, etc. 
 
-![optimaTomato](assets\animate\optimaTomato.gif)"
+![optimaTomato](assets/animate/optimaTomato.gif)
 
 ## Contact: 
 
