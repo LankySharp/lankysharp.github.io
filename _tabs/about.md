@@ -3,12 +3,13 @@
 icon: fas fa-info-circle
 order: 4
 ---
-## Table of Contents
+# Table of Contents
+
 - [Table of Contents](#table-of-contents)
-- [24hr Turnaround Drop-Off Service](#24hr-turnaround-drop-off-service)
-- [Mobile Sharpening](#mobile-sharpening)
-- [Pricing](#pricing)
-- [Contact](#contact)
+  - [24hr Turnaround Drop-Off Service](#24hr-turnaround-drop-off-service)
+  - [Mobile Sharpening](#mobile-sharpening)
+  - [Pricing](#pricing)
+  - [Contact](#contact)
 
 ***
 
