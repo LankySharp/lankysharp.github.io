@@ -3,6 +3,13 @@
 icon: fas fa-info-circle
 order: 4
 ---
+## Table of Contents
+- [24hr Turnaround Drop-Off Service](#24hr-turnaround-drop-off-service)
+- [Mobile Sharpening](#mobile-sharpening)
+- [Pricing](#pricing)
+- [Contact](#contact)
+
+*** 
 
 ## 24hr Turnaround Drop-Off Service 
 
@@ -40,7 +47,9 @@ All prices include even and matching bevel(s) set as the tool is intended to be 
 
 Please inquire regarding specialty tools, powered blade equipment, etc. 
 
-![optimaTomato](assets/animate/optimaTomato.gif)
+<div style="text-align: center;">
+  <img src="assets/animate/optimaTomato.gif" alt="optimaTomato" style="width: 50%;">
+</div>
 
 ## Contact: 
 
