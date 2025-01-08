@@ -4,18 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-
-
-# {: .prompt-tip }
-
-### 24hr Turnaround Drop-Off Service 
+## 24hr Turnaround Drop-Off Service 
 
 Simple, secure dropbox (and pick-up) access. I’ll provide clear instructions to my home drop location in Big Lake, MN. Fast turnaround keeps me warm in the winter and your tools back into action.
 
 Just roll your tools in a hand towel or anything on hand and leave them for me to freshen up within a day!
 
-### Mobile Sharpening 
+## Mobile Sharpening 
 
 $100 minimum for mobile sharpening service and I'll drive to any metro area location. 
 (Example: 11 blades under 13" and a pair of kitchen shears)
@@ -25,7 +20,7 @@ I can supply my own power/workspace with just a small table setup outdoors and o
 
 
 *** 
-### Pricing
+## Pricing
 
 | **Item**                                                                         | **Cost**                        |
 | -------------------------------------------------------------------------------- | ------------------------------- |
@@ -45,7 +40,9 @@ All prices include even and matching bevel(s) set as the tool is intended to be 
 
 Please inquire regarding specialty tools, powered blade equipment, etc. 
 
-### Contact: 
+![optimaTomato](assets\animate\optimaTomato.gif)"
+
+## Contact: 
 
 Call or Text anytime! Kenny | [218-640-1145](tel:218-640-1145)
 
