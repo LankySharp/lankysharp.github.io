@@ -10,7 +10,7 @@ summary: Where I've been and where I'm headed as a sharpener.
 
 Geeking out on knives and blades of all kinds has always been an interest, yet it wasn’t until 2020 when getting better performance out of my tools really struck me. After a lot dedicated practice on whetstones, I finally hit some basic milestones for any sharpener. Things like, *push-cutting*[^1]  paper and cutting arm hairs are fairly innocuous, for whatever reason it’s been an update to how the mind works when I use any edged tool. Constantly questioning the strategies implemented and honestly assess what’s working and ditching what isn’t.
 
-| ![Push-Cut Rolling Paper](assets\animate\pushCutPaper.webm)                     |     |
+| ![Push-Cut Rolling Paper](assets/animate/pushCutPaper.webm)                     |     |
 | ------------------------------------------------------------------------------- | --- |
 | A common cutting motion and specific test of an edge's apex and burr refinement |     |
 
@@ -19,7 +19,7 @@ My system incorporates all sharpening fundamentals to be found in classic system
 Once again, these bricks became fidgets and fairly mindless practice for too long on the shelf —intermittently *unsharpening* and scratching bevels haphazardly. Eventually, the global pandemic prompted me to read more, and I’m quite thankful that technical training for sharp results made the list.
 
 I was finally forming and feeling burrs[^2], refining edges enough to find performance differences between edges.  This sort of discovery sells itself, in my eyes, so I was soon down rabbit holes like edge geometry, grits, and a mess of other topics we could discuss here. Suffice to say, I knew enough to be *sharp-dangerous* (dull knives are *dull-dangerous*, folks).
-![BurrSEM](assets\images\sciOfSharpBurrSEM.webp)
+![BurrSEM](assets/images/sciOfSharpBurrSEM.webp)
 *Science of Sharp Electron Microscopy Image of a Burr*
 
 Quality abrasives and attentive technique, regardless of the sharpening system, will produce quality results. Likewise, improper technique with quality abrasives will produce *poor performance*. For the last six months, I’ve continually tested, modified, and improved skills with a 1”x 30” belt-driven sharpening system with a fixed angle guide. Larger format sandpaper spinners are common knowledge in the knife industry, enthusiast community, and many general knife-users may notice a grind pattern from a factory blade and presume it had to be machined into “like a wedge slicey shape” somehow. A common misconception assumes that edges finished at the factory, or any edge finished on motor-driven belts could be *cooked*, referring to heat ruining the temper of the blade. Likewise, skeptics may claim belts cannot reach the refinement necessary for "true sharpness". It's good to be aware that over-heating a hardened steel will weaken the underlying structure and performance. Thankfully, for sharpening, heat is straightforward to avoid with lower speed belts than used during a knife's construction, a light touch to finalize the apex, and stropping strokes to further refine things.
@@ -35,4 +35,4 @@ People have been making dull things sharper for centuries, but credit is certain
 In the meantime, I've cobbled together a YouTube Playlist and select readings for a snapshot of how my brain works and why punching into work with a bench grinder is such a good fit.
 
 [^1]: Push cutting - cutting motion traversing the blade perpendicular through an object focusing on one area of the edge its apex (i.e. not drawing or slicing through the object, which gains mechanical advantage)
-[^2]: Burr - deformed metal at the apex of an edge. For an excellent review of burrs, misconceptions, and guidance on the importance of  refining them, check out this excellent *Science of Sharp* article.
+[^2]: Burr - deformed metal at the apex of an edge. For an excellent review of burrs, misconceptions, and guidance on the importance of  refining them, check out this excellent [*Science of Sharp* article](https://scienceofsharp.com/2024/02/03/seven-misconceptions-about-knife-burrs/)
