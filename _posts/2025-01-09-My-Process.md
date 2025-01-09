@@ -10,7 +10,7 @@ summary: Where I've been and where I'm headed as a sharpener.
 
 Geeking out on knives and blades of all kinds has always been an interest, yet it wasn’t until 2020 when getting better performance out of my tools really struck me. After a lot dedicated practice on whetstones, I finally hit some basic milestones for any sharpener. Things like, *push-cutting*[^1]  paper and cutting arm hairs are fairly innocuous, for whatever reason it’s been an update to how the mind works when I use any edged tool. Constantly questioning the strategies implemented and honestly assess what’s working and ditching what isn’t.
 
-| ![Push-Cut Rolling Paper](assets/animate/pushCutPaper.webm)                     |     |
+| ![Push-Cut Rolling Paper](assets/animate/pushCut.gif)                           |     |
 | ------------------------------------------------------------------------------- | --- |
 | A common cutting motion and specific test of an edge's apex and burr refinement |     |
 
