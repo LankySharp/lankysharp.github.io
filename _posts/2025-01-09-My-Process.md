@@ -3,7 +3,7 @@ layout: post
 title: My Sharpening Process
 date: 2025-01-09 14:16
 category: blog
-author: Kenny
+author: Kenny Flagg
 tags: [blog,blades,background,equipment,learning,technique,resources,playlist]
 summary: Where I've been and where I'm headed as a sharpener.
 ---
