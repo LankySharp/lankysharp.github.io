@@ -1,0 +1,15 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+.iframe-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0; /* Optional: Add some margin for spacing */
+}

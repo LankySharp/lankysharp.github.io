@@ -58,8 +58,7 @@ Email: <KennyFlagg@outlook.com>
 
 **If it can dull, I‘ll make it sharp!**
 
-![logo](assets/images/logo.png)
-
 <div class="iframe-container">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d386.2667124772021!2d-93.69060138957664!3d45.34162634033981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b365d7476f9127%3A0xb863efdf174c64b3!2sLanky%20Local%20Sharpening%20Services!5e0!3m2!1sen!2sus!4v1736710519395!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+![logo](assets/images/logo.png)
