@@ -12,6 +12,7 @@ mermaid: true
 ## Check out the [pricing](https://lankysharp.github.io/about/#pricing) table for estimating job orders (taxes are already included)
 
 ***
+
 ```mermaid
 flowchart TD
     A[Have Dull Blades] -->|Find the Lanky Local Sharpener| B[Count & wrap 'em in a towel]
